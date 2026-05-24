@@ -106,17 +106,3 @@ There are several ways this project could be taken further:
 - **Add dark/light mode toggle** — let visitors switch themes
 
 ---
-
-## 📬 Contact
-
-**Junayed Rashid**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junayed-rashid-7a8373330)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/junayed__rashid)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/junayed.rashid.2024)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
