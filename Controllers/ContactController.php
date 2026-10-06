@@ -99,7 +99,8 @@ function handleContactForm($conn) {
              . 'Subject: ' . $subject . "\n\n"
              . "Message:\n" . $message;
 
-    mail($to, $subject, $body, $headers);
+    // Suppress warning on localhost where mail server is not configured
+    @mail($to, $subject, $body, $headers);
 
     // ---- STEP 5: Send success response ----
     // Everything worked — tell the browser it was a success
