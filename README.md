@@ -76,7 +76,7 @@ I started with a plain HTML/CSS/JS frontend. Once the design was complete, I add
 
 **1. Clone the repository** into your XAMPP `htdocs` folder:
 ```bash
-git clone https://github.com/YOUR_USERNAME/my-portfolio-website.git "My Portfolio Website"
+git clone https://github.com/Junayed37/my-portfolio-website.git "My Portfolio Website"
 ```
 
 **2. Import the database:**
